@@ -11,7 +11,8 @@ namespace GitEssai
         static void Main(string[] args)
         {
             Personne t = new Personne();
-            Console.WriteLine();
+            Personne t1 = new Personne("josephine");
+            Console.WriteLine(t+"    nnn" +t1);
 
 
             Console.ReadKey();
