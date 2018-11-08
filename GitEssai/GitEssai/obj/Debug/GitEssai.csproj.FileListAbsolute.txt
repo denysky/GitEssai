@@ -1,0 +1,10 @@
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\bin\Debug\GitEssai.exe.config
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\bin\Debug\GitEssai.exe
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\bin\Debug\GitEssai.pdb
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\bin\Debug\ClassLibrary1.dll
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\bin\Debug\ClassLibrary1.pdb
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\obj\Debug\GitEssai.csprojAssemblyReference.cache
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\obj\Debug\GitEssai.csproj.CoreCompileInputs.cache
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\obj\Debug\GitEssai.csproj.CopyComplete
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\obj\Debug\GitEssai.exe
+C:\Users\cd10rega\source\repos\GitEssai\GitEssai\obj\Debug\GitEssai.pdb
